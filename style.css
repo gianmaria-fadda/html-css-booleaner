@@ -27,3 +27,6 @@ h2{
 .riquadro{
     width: 300px;
 }
+table{
+    border-collapse: collapse;
+}
